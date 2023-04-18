@@ -1,0 +1,3 @@
+/home/juaquin/Documentos/UTEC/Ciclo5/BD2/ISAM/cmake-build-debug/CMakeFiles/ISAM.dir
+/home/juaquin/Documentos/UTEC/Ciclo5/BD2/ISAM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/juaquin/Documentos/UTEC/Ciclo5/BD2/ISAM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
